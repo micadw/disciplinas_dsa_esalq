@@ -1,0 +1,470 @@
+**Possíveis Temas de TCC em Data Science e Analytics (ESALQ) Relacionados à USP**
+
+---
+
+**I. Introdução: Os desafios da USP no século XXI**
+
+*Ideias e Metodologias:*
+
+1. **Análise Preditiva da Evasão Estudantil na USP**
+   - *Metodologia:* Coleta de dados históricos sobre matrículas, desempenho acadêmico e evasão. Aplicação de algoritmos de machine learning (como regressão logística, árvores de decisão) para identificar padrões e fatores que contribuem para a evasão. Desenvolvimento de modelos preditivos para auxiliar na tomada de decisões administrativas.
+
+2. **Mapeamento e Visualização de Colaborações Científicas Internacionais da USP**
+   - *Metodologia:* Uso de técnicas de mineração de texto e análise de redes para mapear publicações e parcerias internacionais. Desenvolvimento de dashboards interativos utilizando ferramentas como Python (bibliotecas pandas, networkx, Plotly) para visualização dos dados.
+
+---
+
+**III. Missões da USP para o futuro**
+
+*Pesquisa de ponta com alcance internacional*
+
+1. **Análise Bibliométrica para Identificação de Áreas Emergentes de Pesquisa na USP**
+   - *Metodologia:* Extração de dados de bases como Scopus e Web of Science. Utilização de algoritmos de clustering e topic modeling (LDA) para identificar tendências e áreas emergentes. Avaliação do impacto internacional das pesquisas através de métricas como índice h.
+
+*Avanço do conhecimento e inovação tecnológica*
+
+2. **Desenvolvimento de um Sistema de Recomendação para Parcerias Tecnológicas entre Departamentos**
+   - *Metodologia:* Aplicação de técnicas de machine learning para criar um sistema que recomende possíveis parcerias com base em interesses de pesquisa e projetos em andamento. Uso de algoritmos de filtragem colaborativa.
+
+*Foco em problemas nacionais e responsabilidade social*
+
+3. **Aplicação de Data Science na Otimização de Políticas Públicas Educacionais**
+   - *Metodologia:* Análise de dados educacionais nacionais. Uso de modelos preditivos para avaliar o impacto de diferentes políticas. Implementação de simulações para propor melhorias nas políticas atuais.
+
+---
+
+**IV. Visão da USP para 2034**
+
+*Aproximação com o Estado e apoio à formulação de políticas públicas*
+
+1. **Modelo Preditivo para Necessidades de Infraestrutura Urbana em São Paulo**
+   - *Metodologia:* Coleta de dados urbanos (mobilidade, demografia, uso do solo). Aplicação de modelos de aprendizado de máquina para prever demandas futuras. Utilização de GIS para visualização espacial dos resultados.
+
+*Resposta às demandas por pesquisa e conhecimento para tomada de decisões*
+
+2. **Criação de uma Plataforma de Inteligência Artificial para Apoiar Decisões Governamentais**
+   - *Metodologia:* Desenvolvimento de um sistema baseado em IA que analisa grandes volumes de dados governamentais. Implementação de técnicas de processamento de linguagem natural para interpretar documentos oficiais e extrair insights relevantes.
+
+---
+
+**V. Sustentabilidade da pesquisa na USP**
+
+*Apoio a projetos inovadores com impacto social*
+
+1. **Avaliação do Impacto Social de Projetos de Pesquisa Apoiados pela USP**
+   - *Metodologia:* Definição de métricas de impacto social. Coleta de dados qualitativos e quantitativos sobre os projetos. Análise estatística para correlacionar características dos projetos com seus impactos sociais.
+
+---
+
+**VII. Financiamento da USP: desafios e perspectivas**
+
+1. **Análise de Séries Temporais do Orçamento da USP e Projeções Futuras**
+   - *Metodologia:* Coleta de dados históricos financeiros. Aplicação de modelos de séries temporais (ARIMA, Prophet) para projeção de cenários futuros. Avaliação de alternativas de financiamento com simulações de Monte Carlo.
+
+2. **Exploração de Fontes Alternativas de Financiamento através de Data Mining**
+   - *Metodologia:* Uso de técnicas de data mining para identificar potenciais fontes de financiamento, como fundos internacionais, parcerias público-privadas. Desenvolvimento de um modelo de priorização baseado em análise multicritério.
+
+---
+
+**VIII. Cultura empreendedora na USP do futuro**
+
+*Estímulo à inovação, criatividade e busca por soluções*
+
+1. **Desenvolvimento de um Algoritmo para Identificar Potenciais Empreendedores entre Alunos**
+   - *Metodologia:* Análise de dados acadêmicos e de atividades extracurriculares. Uso de machine learning para identificar perfis com alto potencial empreendedor. Aplicação de modelos de classificação supervisionada.
+
+*Apoio a novas empresas e negócios (startups e spin-offs)*
+
+2. **Criação de um Modelo de Previsão de Sucesso para Startups Originadas na USP**
+   - *Metodologia:* Coleta de dados sobre startups fundadas por membros da comunidade USP. Aplicação de técnicas de aprendizado de máquina para identificar fatores críticos de sucesso. Validação do modelo com dados históricos.
+
+---
+
+**Conclusão**
+
+Os temas propostos buscam alinhar os desafios estratégicos da USP com as competências desenvolvidas no MBA em Data Science e Analytics. A aplicação das metodologias de ciência de dados permite não apenas a geração de insights valiosos para a instituição, mas também contribui para a formação de profissionais capazes de enfrentar problemas complexos e propor soluções inovadoras com impacto real na sociedade.
+
+B) ampliando para outros temas em relação à USP
+
+**Novas Ideias Inovadoras de TCC para o MBA em Data Science e Analytics (ESALQ)**
+
+---
+
+Com base nos temas apresentados no livro **"USP 2034: Planejando o Futuro"**, seguem novas propostas de TCC que abordam questões atuais e emergentes, alinhadas com as metas estratégicas da USP e as tendências em Data Science e Analytics.
+
+---
+
+### **Capítulo 1: USP - Uma Universidade de Classe Mundial**
+
+1. **Análise de Dados para Otimização da Internacionalização da USP**
+   - **Metodologia:** Utilizar técnicas de análise de dados para mapear e identificar padrões nas parcerias internacionais existentes. Aplicar modelos preditivos para sugerir novos países e instituições estratégicas para cooperação acadêmica.
+
+2. **Implementação de um Sistema de Business Intelligence para Gestão Universitária**
+   - **Metodologia:** Desenvolver dashboards interativos que consolidem indicadores-chave de desempenho (KPIs) da USP, permitindo tomadas de decisão mais ágeis e embasadas.
+
+---
+
+### **Capítulo 2: Modelo de Universidade, Missão e Visão de Futuro**
+
+3. **Previsão de Demandas Futuras de Cursos com Machine Learning**
+   - **Metodologia:** Analisar dados históricos de matrículas e tendências educacionais para prever quais cursos terão maior demanda, auxiliando no planejamento acadêmico.
+
+4. **Análise de Sentimento em Redes Sociais sobre a Percepção da USP**
+   - **Metodologia:** Coletar dados de mídias sociais e aplicar processamento de linguagem natural para entender a imagem da USP perante a sociedade e identificar áreas de melhoria.
+
+---
+
+### **Capítulo 3: Graduação - Formação Ampla e Flexível**
+
+5. **Personalização de Trilhas de Aprendizagem com Inteligência Artificial**
+   - **Metodologia:** Desenvolver um algoritmo que, a partir do perfil e interesses do aluno, sugira disciplinas e atividades extracurriculares para uma formação mais personalizada.
+
+6. **Análise do Impacto do Ensino Remoto na Qualidade da Aprendizagem**
+   - **Metodologia:** Utilizar técnicas estatísticas e de mineração de dados para comparar o desempenho acadêmico antes e durante o ensino remoto, identificando fatores críticos de sucesso.
+
+---
+
+### **Capítulo 4: O Futuro da Pesquisa e da Sustentabilidade**
+
+7. **Modelagem de Cenários de Sustentabilidade Ambiental no Campus com IoT**
+   - **Metodologia:** Implantar sensores IoT para coletar dados em tempo real sobre consumo de energia, água e outros recursos, e aplicar análises preditivas para otimizar o uso sustentável.
+
+8. **Big Data Analytics na Previsão de Doenças Agrícolas**
+   - **Metodologia:** Integrar dados climáticos, genéticos e de solo para desenvolver modelos preditivos que auxiliem agricultores na prevenção de pragas e doenças.
+
+---
+
+### **Capítulo 5: Inovação e Empreendedorismo na Universidade**
+
+9. **Mapeamento de Competências Empreendedoras entre Estudantes da USP**
+   - **Metodologia:** Aplicar questionários e análises estatísticas para identificar habilidades empreendedoras e propor programas de desenvolvimento direcionados.
+
+10. **Plataforma de Crowdsourcing para Projetos de Inovação Colaborativa**
+    - **Metodologia:** Desenvolver uma plataforma online que conecte pesquisadores, estudantes e empresas para a co-criação de soluções inovadoras.
+
+---
+
+### **Capítulo 6: A Universidade de São Paulo e a Sociedade**
+
+11. **Análise Espacial da Influência da USP no Desenvolvimento Regional**
+    - **Metodologia:** Utilizar SIG (Sistemas de Informação Geográfica) para correlacionar a presença da USP em diferentes regiões com indicadores socioeconômicos locais.
+
+12. **Chatbots Educacionais para Democratização do Conhecimento**
+    - **Metodologia:** Desenvolver assistentes virtuais que forneçam acesso a conteúdos educacionais da USP, visando ampliar o alcance à população em geral.
+
+---
+
+### **Capítulo 7: Gestão de Pessoas na USP - Rumo a 2034**
+
+13. **Predição de Necessidades de Capacitação com Data Analytics**
+    - **Metodologia:** Analisar dados de desempenho e feedbacks para identificar áreas onde os colaboradores necessitam de capacitação, antecipando demandas de treinamento.
+
+14. **Uso de Realidade Virtual para Treinamento de Equipes Administrativas**
+    - **Metodologia:** Desenvolver ambientes imersivos de RV para simular situações de atendimento e gestão, aprimorando habilidades de forma interativa.
+
+---
+
+### **Capítulo 8: A Universidade do Futuro**
+
+15. **Implementação de Tecnologias Blockchain na Gestão Acadêmica**
+    - **Metodologia:** Projetar um sistema de registro descentralizado para certificações acadêmicas, garantindo segurança e transparência nos processos.
+
+16. **Inteligência Artificial na Automação de Processos Administrativos**
+    - **Metodologia:** Identificar processos burocráticos que podem ser automatizados utilizando RPA (Robotic Process Automation) e algoritmos de IA, aumentando a eficiência operacional.
+
+---
+
+**Considerações Finais**
+
+As propostas apresentadas buscam alinhar-se com os objetivos estratégicos da USP para os próximos anos, promovendo a integração entre tecnologia, inovação e impacto social. Através da aplicação de técnicas avançadas em Data Science e Analytics, os TCCs podem contribuir significativamente para o desenvolvimento institucional e para a sociedade como um todo, preparando profissionais capazes de enfrentar os desafios do futuro.
+
+C) Em relação especificamente às diretrizes do CEM (Centro de Estudos da Metrópole, após análise dos centros de pesquisa mais ativos e influentes)
+
+**Novas Ideias e Metodologias de TCC para o MBA em Data Science e Analytics (ESALQ) Alinhadas às Linhas de Pesquisa do Centro de Estudos da Metrópole (CEM)**
+
+---
+
+O Centro de Estudos da Metrópole (CEM) é um núcleo de pesquisa que se dedica ao estudo das dinâmicas sociais, políticas públicas, desigualdades urbanas e processos de governança nas metrópoles brasileiras. Com base nas linhas de pesquisa do CEM, seguem propostas de TCC que integram técnicas de Data Science e Analytics para contribuir com o entendimento e a solução de desafios metropolitanos.
+
+---
+
+### **1. Análise Espacial das Desigualdades Socioeconômicas nas Metrópoles Brasileiras**
+
+**Metodologia:**
+
+- **Coleta de Dados:** Reunir dados socioeconômicos de fontes como IBGE, IPEA e prefeituras locais, incluindo renda, educação, saúde e acesso a serviços básicos.
+- **Análise Geoespacial:** Utilizar Sistemas de Informação Geográfica (SIG) para mapear a distribuição das desigualdades nos espaços urbanos.
+- **Modelagem Estatística:** Aplicar modelos de regressão espacial para identificar os fatores que contribuem para as desigualdades.
+- **Visualização de Dados:** Criar mapas temáticos e dashboards interativos para facilitar a interpretação dos resultados.
+
+### **2. Predição de Vulnerabilidade Social com Machine Learning**
+
+**Metodologia:**
+
+- **Base de Dados:** Integrar dados demográficos, econômicos e de infraestrutura urbana.
+- **Feature Engineering:** Selecionar e criar variáveis relevantes que possam influenciar a vulnerabilidade social.
+- **Modelos Preditivos:** Utilizar algoritmos como Random Forest e Gradient Boosting para prever áreas com alto risco de vulnerabilidade.
+- **Validação:** Dividir os dados em conjuntos de treinamento e teste para avaliar a precisão dos modelos.
+
+### **3. Avaliação do Impacto das Políticas de Habitação Social**
+
+**Metodologia:**
+
+- **Dados Históricos:** Coletar informações sobre programas de habitação social, beneficiários e indicadores socioeconômicos antes e depois da implementação.
+- **Métodos Quasi-Experimentais:** Aplicar técnicas como Diferenças em Diferenças (DiD) para estimar o impacto causal das políticas.
+- **Análise Comparativa:** Comparar regiões atendidas pelas políticas com grupos de controle não atendidos.
+- **Recomendações:** Fornecer insights para aprimorar futuras iniciativas de habitação.
+
+### **4. Mobilidade Urbana e Acessibilidade ao Emprego**
+
+**Metodologia:**
+
+- **Dados de Transporte:** Obter dados de transporte público, incluindo rotas, horários e frequência.
+- **Análise de Rede:** Utilizar algoritmos de grafos para modelar a rede de transporte e calcular índices de acessibilidade.
+- **Demanda por Emprego:** Mapear a distribuição de empregos nas metrópoles.
+- **Modelagem Espacial:** Identificar áreas com baixa acessibilidade ao emprego e propor melhorias na rede de transporte.
+
+### **5. Uso de Big Data para Monitoramento de Epidemias Urbanas**
+
+**Metodologia:**
+
+- **Dados em Tempo Real:** Integrar dados de saúde pública, redes sociais e buscas na internet relacionadas a sintomas de doenças.
+- **Análise Temporal e Espacial:** Aplicar modelos de séries temporais e análise espacial para detectar surtos.
+- **Machine Learning:** Utilizar algoritmos de classificação para prever a propagação de doenças.
+- **Visualização:** Desenvolver ferramentas que permitam autoridades de saúde monitorar e agir rapidamente.
+
+### **6. Efeitos da Segregação Espacial no Desempenho Educacional**
+
+**Metodologia:**
+
+- **Dados Educacionais:** Coletar informações sobre desempenho escolar, taxas de aprovação e evasão.
+- **Contexto Socioeconômico:** Mapear a segregação residencial e índices de vulnerabilidade social.
+- **Análise Estatística:** Utilizar modelos hierárquicos lineares para entender a influência do contexto socioespacial no desempenho educacional.
+- **Políticas Públicas:** Sugerir intervenções para reduzir disparidades educacionais.
+
+### **7. Inteligência Artificial na Gestão de Resíduos Sólidos Urbanos**
+
+**Metodologia:**
+
+- **Coleta de Dados:** Obter dados sobre geração de resíduos, rotas de coleta e pontos de descarte irregular.
+- **Machine Learning:** Aplicar algoritmos de otimização e previsão para melhorar a eficiência das rotas de coleta.
+- **Análise de Clusterização:** Identificar áreas críticas com alta geração de resíduos ou descarte irregular.
+- **Sustentabilidade:** Propor soluções para incentivar a reciclagem e reduzir o impacto ambiental.
+
+### **8. Análise de Sentimento sobre Políticas Urbanas em Mídias Sociais**
+
+**Metodologia:**
+
+- **Extração de Dados:** Coletar posts e comentários relacionados a políticas urbanas no Twitter, Facebook e outras plataformas.
+- **Processamento de Linguagem Natural (PLN):** Utilizar técnicas de PLN para analisar sentimentos e opiniões da população.
+- **Tópicos Emergentes:** Aplicar modelagem de tópicos (LDA) para identificar os principais temas discutidos.
+- **Feedback para Gestores:** Fornecer insights para autoridades ajustarem políticas com base no feedback público.
+
+### **9. Monitoramento de Indicadores de Sustentabilidade Urbana com IoT**
+
+**Metodologia:**
+
+- **Sensores IoT:** Implementar sensores em pontos estratégicos para coletar dados sobre qualidade do ar, ruído e tráfego.
+- **Plataforma de Dados:** Criar uma infraestrutura para armazenar e processar os dados em tempo real.
+- **Análise Preditiva:** Utilizar modelos preditivos para antecipar problemas ambientais ou de mobilidade.
+- **Engajamento Cidadão:** Desenvolver aplicativos que permitam aos cidadãos acessar informações e contribuir com dados.
+
+### **10. Predição de Criminalidade Urbana usando Dados Socioeconômicos**
+
+**Metodologia:**
+
+- **Dados de Ocorrências:** Coletar dados históricos de ocorrências policiais georreferenciadas.
+- **Variáveis Explicativas:** Incluir dados sobre iluminação pública, densidade populacional, desemprego, entre outros.
+- **Modelos Estatísticos:** Aplicar modelos de regressão logística e árvores de decisão para identificar fatores de risco.
+- **Mapeamento de Risco:** Criar mapas de calor indicando áreas com maior probabilidade de crimes.
+
+### **11. Impacto das Mudanças Climáticas nas Metrópoles Brasileiras**
+
+**Metodologia:**
+
+- **Dados Climáticos:** Integrar projeções climáticas com dados históricos de temperatura e precipitação.
+- **Modelagem Espacial:** Identificar áreas vulneráveis a eventos extremos, como enchentes e ondas de calor.
+- **Análise Socioeconômica:** Avaliar como as populações mais vulneráveis são afetadas.
+- **Planejamento Urbano:** Sugerir adaptações na infraestrutura urbana para mitigar os impactos.
+
+### **12. Eficiência do Gasto Público Municipal através de Data Envelopment Analysis**
+
+**Metodologia:**
+
+- **Dados Financeiros:** Obter informações sobre receitas, despesas e investimentos dos municípios.
+- **Análise Envoltória de Dados (DEA):** Avaliar a eficiência relativa dos municípios na alocação de recursos.
+- **Comparação entre Municípios:** Identificar boas práticas e áreas de ineficiência.
+- **Recomendações:** Propor estratégias para otimizar o uso dos recursos públicos.
+
+### **13. Estudo da Inclusão Digital nas Áreas Periféricas das Metrópoles**
+
+**Metodologia:**
+
+- **Levantamento de Dados:** Coletar informações sobre acesso à internet, uso de smartphones e habilidades digitais.
+- **Análise Estatística:** Identificar correlações entre inclusão digital e indicadores socioeconômicos.
+- **Mapeamento Geoespacial:** Visualizar áreas com baixo acesso e propor intervenções.
+- **Políticas de Inclusão:** Sugerir programas de capacitação e expansão de infraestrutura.
+
+### **14. Uso de Redes Neurais para Previsão de Demanda por Serviços de Saúde**
+
+**Metodologia:**
+
+- **Dados Hospitalares:** Coletar dados sobre atendimentos, diagnósticos e capacidade das unidades de saúde.
+- **Deep Learning:** Aplicar redes neurais recorrentes (RNN) para modelar séries temporais de demanda.
+- **Variáveis Externas:** Incluir dados climáticos e eventos sazonais que possam influenciar a demanda.
+- **Planejamento de Recursos:** Auxiliar gestores na alocação eficiente de pessoal e equipamentos.
+
+### **15. Dinâmica da Economia Criativa nas Cidades Brasileiras**
+
+**Metodologia:**
+
+- **Dados Setoriais:** Levantar informações sobre empresas e profissionais atuantes na economia criativa.
+- **Análise de Clusterização:** Identificar polos criativos e suas características.
+- **Redes de Colaboração:** Mapear conexões entre atores do setor utilizando análise de redes sociais (SNA).
+- **Desenvolvimento Econômico:** Avaliar o impacto da economia criativa no desenvolvimento urbano.
+
+---
+
+**Considerações Finais**
+
+As propostas apresentadas buscam integrar as ferramentas de Data Science e Analytics com as linhas de pesquisa do CEM, proporcionando análises aprofundadas sobre questões urbanas e metropolitanas. Ao focar em temas como desigualdade social, mobilidade urbana, saúde pública, sustentabilidade e governança, os trabalhos têm o potencial de gerar insights valiosos para a formulação de políticas públicas eficazes e para a melhoria da qualidade de vida nas metrópoles brasileiras.
+
+---
+
+**Nota:** Ao desenvolver o TCC, é fundamental considerar aspectos éticos relacionados ao uso de dados, garantindo a privacidade e a segurança das informações pessoais. Além disso, recomenda-se a validação dos modelos propostos em parceria com órgãos públicos e instituições de pesquisa para assegurar a relevância e a aplicabilidade dos resultados obtidos.
+
+________
+Notas adicionais (metodo de pensamento e construção do GPT sobre o tema)
+
+I)
+Propondo e adaptando
+
+Estou sugerindo temas e metodologias para projetos da USP/ESALQ, focando em desafios contemporâneos e inovação tecnológica.
+
+Buscando parcerias
+
+Estou pensando nas possibilidades de colaboração com o Estado e apoio na criação de políticas públicas na USP.
+
+Sustentando a pesquisa
+
+Estou analisando o suporte a projetos inovadores com impacto social como componente sustentável da pesquisa na USP.
+
+Desenvolvendo a USP financeiramente
+
+Estou discutindo os desafios e as perspectivas financeiras para atingir os objetivos da USP em 2034.
+
+Promovendo cultura empreendedora
+
+Estou incentivando a inovação, criatividade e apoio a novas empresas e startups na USP do futuro.
+
+Considerando as políticas da OpenAI, é preciso fazer conteúdo relevante em português. Estágio e gestão são temas principais do MBA da ESALQ, focando em tecnologia.
+
+Explorando opções
+
+Estou pensando em temas para um TCC em Ciência de Dados e Análise, como uma análise da evasão estudantil na USP e o impacto global de suas publicações científicas. Isso está passando pelo mapeamento da produção científica e seu impacto.
+
+Identificando áreas emergentes Estou mapeando áreas de pesquisa em crescimento na USP, usando algoritmos de clustering para analisar publicações e projetos.
+
+Mapeando colaborações Estou analisando redes sociais para identificar colaborações entre pesquisadores da USP e descobrir núcleos de inovação.
+
+Desenvolvendo soluções em saúde pública Estou trabalhando no uso de ciência de dados para construir modelos preditivos com dados de saúde pública, visando melhorar a tomada de decisão em políticas de saúde no Brasil.
+
+Relacionando e argumentando
+
+Estou abordando a conexão entre ciência e sociedade, crítica a teorias de conspiração, desinformação e negacionismo, destacando a importância da ciência na formação da opinião pública e buscando perspectivas para promover uma sociedade mais informada se possível.
+
+Analisando e projetando
+
+Estou pensando na sustentabilidade econômica da USP, analisando séries temporais financeiras, aplicando modelos preditivos e buscando financiamento alternativo.
+
+Possíveis Temas de TCC em Data Science e Analytics (ESALQ) Relacionados à USP
+
+II)
+Explorando novas possibilidades
+
+Estou pensando em ideias de TCC mais inovadoras e "quentes", com temas baseados no livro "USP 2034: Planejando o Futuro".
+
+Pensando em temas inovadores
+
+Estou imaginando ideias inovadoras para TCC na MBA em DSA da ESALQ, inspiradas por "USP 2034". É empolgante pensar em tópicos frescos para pesquisa e planejamento estratégico.
+
+Gestão do tempo e equilíbrio
+
+Estou reconhecendo a importância de avaliar regularmente o tráfego em ambos os pontos enquanto mantenho o equilíbrio no cálculo do tempo do relógio.
+
+Inovando em TCCs
+
+Estou refletindo sobre temas quentes e inovadores para TCCs em Ciência de Dados e Análise, conforme o livro "USP 2034: Planejando o Futuro".
+
+Otimização de processos
+
+Estou analisando como a análise de dados pode melhorar a internacionalização da USP e otimizar alocação de recursos em unidades de ensino e pesquisa.
+
+Analisando as percepções
+
+Estou coletando dados de mídias sociais e fóruns acadêmicos para entender as opiniões da comunidade universitária sobre a USP. Resolver isso me dá uma visão geral do sentimento geral.
+
+Monitorando biodiversidade e inovação
+
+Estou observando o uso de imagens de satélite e algoritmos de reconhecimento de padrões para monitorar a biodiversidade. Além disso, um dashboard está sendo desenvolvido para avaliar indicadores de inovação na USP. Fascinante como dados estão impulsionando avanços.
+
+Propondo uma revolução
+
+Estou pensando em um chatbot da USP com linguagem natural. Além disso, estou prevendo uma gestão de carreiras usando dados de RH e estudando gamificação para servidores técnicos.
+
+Novas Ideias Inovadoras de TCC para o MBA em Data Science e Analytics (ESALQ)
+
+III)
+Pensando em conexões
+
+Estou retomando e reavaliando as temáticas do livro "USP 2034" para sugerir ideias inovadoras de TCC em DSA na ESALQ.
+
+Procurando direções
+
+Estou mapeando mais ideias e metodologias para projetos de TCC no MBA em Ciência de Dados e Análise da ESALQ, especialmente vinculados às linhas de pesquisa do CEM.
+
+Explorando novas metodologias
+
+Explorando tópicos de pesquisa urbana
+
+Estou mapeando áreas como estudos urbanos, desigualdade social, políticas públicas e governança metropolitana. Imagino projetos TCC aplicando ciência de dados para resolver desafios específicos.
+
+Desenvolvendo ideias
+
+Estou pensando em novas propostas de TCC que conectem técnicas de Data Science e Analytics com questões urbanas e desigualdades sociais, seguindo as linhas de pesquisa do CEM.
+
+Analisando desigualdades
+
+Estou mapeando desigualdades socioeconômicas em áreas metropolitanas usando SIG e análise espacial. Isso está me levando a compreender melhor a distribuição e identificar clusters nos dados coletados.
+
+Mapeando políticas urbanas
+
+Estou reunindo dados sobre índices de criminalidade para avaliar o impacto de políticas públicas. Aplicando métodos como diferenças em diferenças (DiD) e matching, estou visualizando os resultados com dashboards interativos e analisando séries temporais.
+
+O que eu estou mapeando? É interessante ver como a meteorologia em áreas urbanas está se tornando mais complexa, com modelos climáticos e previsão do tempo em alta demanda.
+
+Utilizando Deep Learning
+
+Estou aplicando redes neurais convolucionais (CNN) para analisar imagens de satélite e identificar áreas vulneráveis a desastres naturais, em conjunto com dados meteorológicos para prever eventos futuros e criar sistemas de alerta.
+
+Coletando e analisando
+
+Estou coletando dados imobiliários, demográficos e socioeconômicos, analisando mudanças nos preços de imóveis e deslocamento populacional, e usando modelos estatísticos para entender os fatores da gentrificação.
+
+Melhorando a mobilidade urbana
+
+Estou analisando dados de deslocamento casa-trabalho e conectividade do transporte público para iluminar áreas com baixa acessibilidade a empregos. Estou sugerindo maneiras de melhorar a mobilidade e reduzir desigualdades.
+
+Recomendando políticas habitacionais
+
+Estou coletando dados sobre demanda habitacional e renda familiar. Usando algoritmos de recomendação, estou mapeando programas habitacionais adequados e propondo melhorias nas políticas existentes.
+
+Ligando pontos
+
+Estou mapeando zonas de comércio informal usando a clusterização, investigando a influência de fatores socioeconômicos e esboçando políticas econômicas e urbanas.
+
+Analisando padrões de mobilidade
+
+Estou mapeando padrões de deslocamento diurno e noturno, usados no planejamento urbano e serviços públicos. Privacidade é fundamental.
+
+Novas Ideias e Metodologias de TCC para o MBA em Data Science e Analytics (ESALQ) Alinhadas às Linhas de Pesquisa do Centro de Estudos da Metrópole (CEM)

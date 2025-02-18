@@ -1,0 +1,47 @@
+books/Cole Nussbaumer Knaflic (2019). Storytelling com Dados _ um Guia Sobre Visualização de Dados Para Profissionais de Negócios.pdf
+books/*.pdf
+
+# Ignorar pastas e arquivos do Spyder IDE
+*.spyproject/
+*.bak
+*.ini.bak
+
+pdf_cache/
+
+# Diretórios e arquivos de dependências
+node_modules/
+vendor/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações de ambiente
+.env
+*.env.local
+*.env.*.local
+
+# Arquivos de compilação
+dist/
+build/
+*.out
+*.o
+*.class
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do Git
+.git/
+
+# Big Files
+tcc\Tema USP\Script USP\ana-dissertaoesia\big_files
+

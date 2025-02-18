@@ -1,0 +1,28 @@
+# Diretórios de ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Configurações específicas do Spyder
+.spyproject/
+.spydata
+
+# Arquivos de configuração do editor
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Arquivos gerados por sistema operacional
+.DS_Store
+Thumbs.db
