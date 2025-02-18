@@ -38,6 +38,7 @@ for var in variaveis:
     
 #%% Dividir a base em treino e teste
 X = titanic[variaveis]
+X.drop(columns=['survived'], inplace=True)
 y=titanic[vResp]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1729)
@@ -84,7 +85,7 @@ ccp_alphas, impurities = path.ccp_alphas, path.impurities
 
 #%% Verificar se há duplicações nos ccp_alphas
 print(len(ccp_alphas))
-len(pd.Series(ccp_alphas).unique())
+print(len(pd.Series(ccp_alphas).unique()))
 #%%
 ccp_alphas = pd.Series(ccp_alphas).unique()
 #%%  Avaliar diferentes alfas

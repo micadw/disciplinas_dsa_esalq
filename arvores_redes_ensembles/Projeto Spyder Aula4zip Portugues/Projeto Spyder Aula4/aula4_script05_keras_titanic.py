@@ -51,7 +51,7 @@ model.summary()
 #%% Treinar o modelo
 early_stopping = EarlyStopping(
     monitor='val_auc',  # Monitorar a AUC no conjunto de validação
-    patience=10,        # Parar após 10 épocas sem melhoria
+    patience=20,        # Parar após 10 épocas sem melhoria
     mode='max',         # Maximizar a AUC
     restore_best_weights=True  # Restaurar os melhores pesos encontrados
 )
